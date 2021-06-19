@@ -2,7 +2,6 @@
 
 🎓 &nbsp;Discord: whisky#0002.\
 🎓 &nbsp;20y.\
-🌱 &nbsp;Programador desde 2019.\
 💬 &nbsp;Caso tenha alguma sugestão de algo para eu postar aqui, me chame no Discord. :)\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
